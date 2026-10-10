@@ -71,7 +71,7 @@
 | **Category** | **Technologies & Tools** |
 | :--- | :--- |
 | **Languages** | `C++` &bull; `Python` &bull; `JavaScript` &bull; `HTML5` &bull; `CSS3` |
-| **Libraries & Frameworks** | `React` &bull; `Node.js` |
+| **Libraries & Frameworks** | `React` &bull; `Node.js` &bull; `Pandas` &bull; `NumPy` &bull; `Matplotlib` &bull; `Seaborn` |
 | **Databases** | `MySQL` |
 | **Tools & Platforms** | `Git` &bull; `GitHub` &bull; `VS Code` |
 
@@ -112,13 +112,15 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">📈 Stock Market Analytics & Tracker</h3>
+      <h3 align="center">📈 Stock Market Fundamentals Dashboard</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Financial_APIs-00599C?style=flat-square" />
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+        <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+        <img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat-square" />
+        <img src="https://img.shields.io/badge/Seaborn-388e3c?style=flat-square" />
       </p>
-      <p>Real-time stock market tracker and analytical dashboard providing live market trends, stock price movements, and interactive financial visualizations.</p>
+      <p>An institutional-grade financial analytics dashboard delivering multi-panel KPI metrics, trend indexing, composite quality scoring, risk distributions, and interactive GUI company drill-downs.</p>
       <p align="center">
         <a href="https://github.com/harshit3003"><b>💻 View on GitHub</b></a>
       </p>

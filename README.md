@@ -1,69 +1,101 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,20,13,5&height=220&section=header&text=Hi%20there,%20I'm%20Harshit%20Gupta%20⚡&fontSize=42&fontAlignY=38&animation=fadeIn&desc=Computer%20Science%20Student%20%7C%20Aspiring%20Software%20Engineer&descSize=20&descAlignY=60" width="100%"/>
+  
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="45" height="45" />
+  
+  # Hi, I'm **Harshit Gupta**
+  
+  ### 🎓 Computer Science Student & Aspiring Software Engineer
+
+  <p align="center">
+    <a href="https://linkedin.com/in/harshit-gupta-ba76052a6">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://leetcode.com/u/harshit_3003/">
+      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+    </a>
+    <a href="https://github.com/harshit3003">
+      <img src="https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+    <a href="mailto:guptaharshit00006@gmail.com">
+      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
 
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F2FE&center=true&vCenter=true&width=550&lines=Computer+Science+Student+%F0%9F%8E%93;Passionate+about+DSA+%26+Problem+Solving+%E2%9A%A1;Building+Modern+Web+Apps+with+React+%26+JavaScript+%F0%9F%9A%80;Exploring+Python+%26+C%2B%2B+Development+%F0%9F%92%BB" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Passionate+about+Data+Structures+%26+Algorithms;Building+clean+and+modern+web+applications;Exploring+C%2B%2B%2C+Python+%26+Full+Stack+Development;Always+curious+and+ready+to+learn+new+tech!" alt="Typing Tagline" />
   </a>
+
 </div>
 
 <br/>
 
-### 👨‍💻 About Me
+---
 
-```cpp
-#include <iostream>
-#include <vector>
+### 🌟 About Me
 
-struct Developer {
-    std::string name = "Harshit Gupta";
-    std::string role = "Computer Science Student & Aspiring Software Engineer";
-    std::vector<std::string> languages = {"C++", "Python", "JavaScript"};
-    std::vector<std::string> interests = {"Data Structures & Algorithms", "Web Development", "Problem Solving"};
-    std::string currentFocus = "Mastering DSA & Building Full Stack Projects";
-};
-```
+<table>
+  <tr>
+    <td width="65%" valign="top">
+      <ul>
+        <li>🎓 <b>Education:</b> Pursuing Computer Science Engineering</li>
+        <li>💡 <b>Interests:</b> Data Structures & Algorithms, Web Development & System Design</li>
+        <li>💻 <b>Core Languages:</b> C++, Python, JavaScript</li>
+        <li>🎯 <b>Current Focus:</b> Solving LeetCode problems & building full-stack applications</li>
+        <li>📫 <b>Get in Touch:</b> <a href="mailto:guptaharshit00006@gmail.com">guptaharshit00006@gmail.com</a></li>
+      </ul>
+    </td>
+    <td width="35%" align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="130" />
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### 🛠️ Tech Stack & Skills
 
 <div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,py,js,html,css,react,nodejs,git,github,vscode&perline=10&theme=dark" alt="My Skills" />
+  </a>
+</div>
 
-#### 💻 Programming Languages
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<br/>
 
-#### ⚛️ Frameworks & Libraries
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+<div align="center">
 
-#### 🧰 Tools & Version Control
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+| **Category** | **Technologies & Tools** |
+| :--- | :--- |
+| **Languages** | `C++` &bull; `Python` &bull; `JavaScript` &bull; `HTML5` &bull; `CSS3` |
+| **Libraries & Frameworks** | `React` &bull; `Node.js` |
+| **Tools & Platforms** | `Git` &bull; `GitHub` &bull; `VS Code` |
 
 </div>
 
 ---
 
-### 📊 GitHub & Coding Analytics
+### 📊 GitHub & Problem Solving Metrics
 
 <div align="center">
-  <table border="0">
+  <table>
     <tr>
-      <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=harshit3003&show_icons=true&theme=synthwave&hide_border=true&count_private=true" alt="Harshit's GitHub Stats" width="100%"/>
-      </td>
-      <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshit3003&layout=compact&theme=synthwave&hide_border=true" alt="Top Languages" width="100%"/>
-      </td>
+      <th align="center" width="50%">📈 GitHub Overview</th>
+      <th align="center" width="50%">💡 LeetCode Performance</th>
     </tr>
     <tr>
-      <td align="center" colspan="2">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshit3003&theme=synthwave&hide_border=true" alt="GitHub Streak" width="100%"/>
+      <td align="center" valign="top">
+        <a href="https://github.com/harshit3003">
+          <img src="https://github-readme-stats.vercel.app/api?username=harshit3003&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" width="100%"/>
+        </a>
+        <br/><br/>
+        <a href="https://github.com/harshit3003">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshit3003&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" width="100%"/>
+        </a>
+      </td>
+      <td align="center" valign="top">
+        <a href="https://leetcode.com/u/harshit_3003/">
+          <img src="https://leetcard.jacoblin.cool/harshit_3003?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Card" width="100%"/>
+        </a>
       </td>
     </tr>
   </table>
@@ -71,37 +103,16 @@ struct Developer {
 
 ---
 
-### 🏆 GitHub Trophies
+### ⚡ Contribution Streak
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=harshit3003&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</div>
-
----
-
-### 💡 LeetCode Stats
-
-<div align="center">
-  <a href="https://leetcode.com/u/harshit_3003/">
-    <img src="https://leetcard.jacoblin.cool/harshit_3003?theme=nord&font=Fira%20Code&ext=heatmap" alt="Harshit's LeetCode Stats" />
+  <a href="https://github.com/harshit3003">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshit3003&theme=github_dark&hide_border=true" alt="GitHub Streak" width="90%"/>
   </a>
 </div>
 
 ---
 
-### 🌐 Connect With Me
-
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshit-gupta-ba76052a6)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/harshit_3003/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harshit3003)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guptaharshit00006@gmail.com)
-
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,20,13,5&height=100&section=footer" width="100%"/>
+  <p><i>⭐️ Designed with modern 3D icons and clean aesthetics &bull; Thanks for visiting!</i></p>
 </div>

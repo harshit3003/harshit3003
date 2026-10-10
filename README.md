@@ -105,6 +105,7 @@
       </p>
       <p>A digital agri-marketplace platform empowering farmers to sell crops directly to buyers with transparent pricing, product listings, and order tracking.</p>
       <p align="center">
+        <a href="https://kishanmarket.onrender.com/"><b>🔗 Live Demo</b></a> &bull; 
         <a href="https://github.com/harshit3003"><b>💻 View on GitHub</b></a>
       </p>
     </td>

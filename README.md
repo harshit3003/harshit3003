@@ -90,20 +90,46 @@
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
         <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white" />
       </p>
-      <p>A modern, interactive developer portfolio showcasing projects, experience, and skills with 3D elements and smooth animations.</p>
+      <p>A modern developer portfolio showcasing projects, experience, and skills with interactive 3D elements and smooth animations.</p>
       <p align="center">
         <a href="https://portfolio-git-main-harshit-ec30.vercel.app/"><b>🔗 Live Demo</b></a> &bull; 
         <a href="https://github.com/harshit3003"><b>💻 GitHub Repo</b></a>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">⚡ Full Stack Web Application</h3>
+      <h3 align="center">🌾 KishanMarket (Farmer Marketplace)</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
       </p>
-      <p>A scalable full-stack web application featuring user authentication, robust database schema design in MySQL, and responsive frontend UI.</p>
+      <p>A digital agri-marketplace platform empowering farmers to sell crops directly to buyers with fair pricing, product listings, and order tracking.</p>
+      <p align="center">
+        <a href="https://github.com/harshit3003"><b>💻 View on GitHub</b></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">📈 Stock Market Analytics & Tracker</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Financial_APIs-00599C?style=flat-square" />
+      </p>
+      <p>Real-time stock market tracker and analytical dashboard providing live market trends, stock price movements, and financial data visualization.</p>
+      <p align="center">
+        <a href="https://github.com/harshit3003"><b>💻 View on GitHub</b></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">⚡ DSA & Problem Solving Repository</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" />
+      </p>
+      <p>Curated solutions to Data Structures & Algorithms problems across LeetCode covering dynamic programming, graphs, trees, and system design concepts.</p>
       <p align="center">
         <a href="https://github.com/harshit3003"><b>💻 View on GitHub</b></a>
       </p>

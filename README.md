@@ -7,13 +7,16 @@
   ### 🎓 Computer Science Student & Aspiring Software Engineer
 
   <p align="center">
-    <a href="https://linkedin.com/in/harshit-gupta-ba76052a6">
+    <a href="https://portfolio-git-main-harshit-ec30.vercel.app/" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+    </a>
+    <a href="https://linkedin.com/in/harshit-gupta-ba76052a6" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="https://leetcode.com/u/harshit_3003/">
+    <a href="https://leetcode.com/u/harshit_3003/" target="_blank">
       <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
     </a>
-    <a href="https://github.com/harshit3003">
+    <a href="https://github.com/harshit3003" target="_blank">
       <img src="https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
     <a href="mailto:guptaharshit00006@gmail.com">
@@ -22,7 +25,7 @@
   </p>
 
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Passionate+about+Data+Structures+%26+Algorithms;Building+clean+and+modern+web+applications;Exploring+C%2B%2B%2C+Python+%26+Full+Stack+Development;Always+curious+and+ready+to+learn+new+tech!" alt="Typing Tagline" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Passionate+about+Data+Structures+%26+Algorithms;Building+clean+and+modern+web+applications;Exploring+C%2B%2B%2C+Python%2C+AIML+%26+Full+Stack;Always+curious+and+ready+to+learn+new+tech!" alt="Typing Tagline" />
   </a>
 
 </div>
@@ -37,8 +40,9 @@
   <tr>
     <td width="65%" valign="top">
       <ul>
-        <li>🎓 <b>Education:</b> Pursuing Computer Science Engineering</li>
-        <li>💡 <b>Interests:</b> Data Structures & Algorithms, Web Development & System Design</li>
+        <li>🎓 <b>Education:</b> Pursuing Computer Science Engineering (AIML)</li>
+        <li>🌐 <b>Portfolio:</b> <a href="https://portfolio-git-main-harshit-ec30.vercel.app/">portfolio-git-main-harshit-ec30.vercel.app</a></li>
+        <li>💡 <b>Interests:</b> Data Structures & Algorithms, Full Stack Development, AI & Machine Learning</li>
         <li>💻 <b>Core Languages:</b> C++, Python, JavaScript</li>
         <li>🎯 <b>Current Focus:</b> Solving LeetCode problems & building full-stack applications</li>
         <li>📫 <b>Get in Touch:</b> <a href="mailto:guptaharshit00006@gmail.com">guptaharshit00006@gmail.com</a></li>

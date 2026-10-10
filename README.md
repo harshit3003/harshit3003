@@ -43,7 +43,7 @@
         <li>🎓 <b>Education:</b> Pursuing Computer Science Engineering (AIML)</li>
         <li>🌐 <b>Portfolio:</b> <a href="https://portfolio-git-main-harshit-ec30.vercel.app/">portfolio-git-main-harshit-ec30.vercel.app</a></li>
         <li>💡 <b>Interests:</b> Data Structures & Algorithms, Full Stack Development, AI & Machine Learning</li>
-        <li>💻 <b>Core Languages:</b> C++, Python, JavaScript</li>
+        <li>💻 <b>Core Languages:</b> C++, Python, JavaScript, SQL</li>
         <li>🎯 <b>Current Focus:</b> Solving LeetCode problems & building full-stack applications</li>
         <li>📫 <b>Get in Touch:</b> <a href="mailto:guptaharshit00006@gmail.com">guptaharshit00006@gmail.com</a></li>
       </ul>
@@ -60,7 +60,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,py,js,html,css,react,nodejs,git,github,vscode&perline=10&theme=dark" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=cpp,py,js,html,css,react,nodejs,mysql,git,github,vscode&perline=11&theme=dark" alt="My Skills" />
   </a>
 </div>
 
@@ -72,9 +72,44 @@
 | :--- | :--- |
 | **Languages** | `C++` &bull; `Python` &bull; `JavaScript` &bull; `HTML5` &bull; `CSS3` |
 | **Libraries & Frameworks** | `React` &bull; `Node.js` |
+| **Databases** | `MySQL` |
 | **Tools & Platforms** | `Git` &bull; `GitHub` &bull; `VS Code` |
 
 </div>
+
+---
+
+### 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🌐 3D Interactive Portfolio</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white" />
+      </p>
+      <p>A modern, interactive developer portfolio showcasing projects, experience, and skills with 3D elements and smooth animations.</p>
+      <p align="center">
+        <a href="https://portfolio-git-main-harshit-ec30.vercel.app/"><b>🔗 Live Demo</b></a> &bull; 
+        <a href="https://github.com/harshit3003"><b>💻 GitHub Repo</b></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">⚡ Full Stack Web Application</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+      </p>
+      <p>A scalable full-stack web application featuring user authentication, robust database schema design in MySQL, and responsive frontend UI.</p>
+      <p align="center">
+        <a href="https://github.com/harshit3003"><b>💻 View on GitHub</b></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
